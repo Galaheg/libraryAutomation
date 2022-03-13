@@ -1,0 +1,41 @@
+C:\Users\Enes\Desktop\a\a\bin\Debug\a.exe.config
+C:\Users\Enes\Desktop\a\a\bin\Debug\a.exe
+C:\Users\Enes\Desktop\a\a\bin\Debug\a.pdb
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.Form1.resources
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.Properties.Resources.resources
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.exe
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.pdb
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.Uye.resources
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.UyeKitap.resources
+C:\Users\Enes\Desktop\a\a\obj\Debug\a.Kitap.resources
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.csprojAssemblyReference.cache
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.Form1.resources
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.Kitap.resources
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.Login.resources
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.Properties.Resources.resources
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.Uye.resources
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.UyeKitap.resources
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.exe
+C:\Users\Enes\Desktop\a - Kopya (3)\a\obj\Debug\a.pdb
+C:\Users\Enes\Desktop\a - Kopya (3)\a\bin\Debug\a.exe.config
+C:\Users\Enes\Desktop\a - Kopya (3)\a\bin\Debug\a.exe
+C:\Users\Enes\Desktop\a - Kopya (3)\a\bin\Debug\a.pdb
+C:\Users\İNANS\Desktop\son\a\bin\Debug\a.exe.config
+C:\Users\İNANS\Desktop\son\a\bin\Debug\a.exe
+C:\Users\İNANS\Desktop\son\a\bin\Debug\a.pdb
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.csprojAssemblyReference.cache
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.Form1.resources
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.Kitap.resources
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.Login.resources
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.Properties.Resources.resources
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.Uye.resources
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.UyeKitap.resources
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.csproj.GenerateResource.cache
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.csproj.CoreCompileInputs.cache
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.exe
+C:\Users\İNANS\Desktop\son\a\obj\Debug\a.pdb
